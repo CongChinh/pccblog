@@ -29,3 +29,9 @@
 # conda version: 4.8.4
 +conda-forge/noarch::python-dotenv-0.14.0-pyh9f0ad1d_0
 # update specs: ['python-dotenv']
+==> 2020-08-15 15:08:00 <==
+# cmd: C:\DevPrograms\anacoda3\Scripts\conda-script.py install flask-wtf
+# conda version: 4.8.4
++conda-forge/noarch::flask-wtf-0.14.3-py_0
++conda-forge/noarch::wtforms-2.3.2-pyh9f0ad1d_0
+# update specs: ['flask-wtf']
