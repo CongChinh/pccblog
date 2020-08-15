@@ -24,3 +24,8 @@
 +conda-forge/noarch::werkzeug-1.0.1-pyh9f0ad1d_0
 +conda-forge/win-64::markupsafe-1.1.1-py37h8055547_1
 # update specs: ['flask']
+==> 2020-08-15 14:50:36 <==
+# cmd: C:\DevPrograms\anacoda3\Scripts\conda-script.py install python-dotenv
+# conda version: 4.8.4
++conda-forge/noarch::python-dotenv-0.14.0-pyh9f0ad1d_0
+# update specs: ['python-dotenv']
